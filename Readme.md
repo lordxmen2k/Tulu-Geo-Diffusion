@@ -18,7 +18,7 @@ pip install torch transformers numpy
 1. Place your base weights (`tulu_diffusion_v2.pt`) and `geo_data.txt` in the root directory.
 2. Run the engine script:
 ```bash
-python cartographer.py
+python pipeline.py
 ```
 
 ---
@@ -35,7 +35,7 @@ python cartographer.py
 
 ---
 
-## 🐍 Main Engine (cartographer.py)
+## 🐍 Main Engine (pipeline.py)
 
 ```python
 import torch
