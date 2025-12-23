@@ -5,6 +5,8 @@ Tulu-Geo-Diffusion is a specialized **Diffusion Transformer (DiT)** designed for
 **Author:**
 Gerald Enrique Nelson Mc Kenzie
 
+**DOI:** https://doi.org/10.5281/zenodo.18030750
+
 **Date:**
 December 22, 2025
 
