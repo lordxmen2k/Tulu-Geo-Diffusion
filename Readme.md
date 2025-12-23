@@ -2,7 +2,11 @@
 
 Tulu-Geo-Diffusion is a specialized **Diffusion Transformer (DiT)** designed for high-accuracy factual retrieval in the geography domain. Unlike autoregressive models, it uses a guided denoising process to converge on specific geographic facts.
 
+**Author:**
+Gerald Enrique Nelson Mc Kenzie
 
+**Date:**
+December 22, 2025
 
 ## 🚀 Key Features
 * **Classifier-Free Guidance (CFG):** High guidance scales (s=18.0) ensure the model adheres strictly to the prompt.
