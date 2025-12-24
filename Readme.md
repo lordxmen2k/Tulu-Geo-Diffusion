@@ -7,6 +7,14 @@ Gerald Enrique Nelson Mc Kenzie
 
 **DOI:** https://doi.org/10.5281/zenodo.18030750
 
+**Repository:** https://github.com/lordxmen2k/Tulu-Geo-Diffusion
+
+**Hugging Face:** https://huggingface.co/LordXmen2k/Tulu-Geo-DiT-v1
+
+**License:** Apache License 2.0
+
+**Version:** 1.0.0
+
 **Date:**
 December 22, 2025
 
